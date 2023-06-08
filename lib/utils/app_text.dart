@@ -11,6 +11,6 @@ class AppText {
   static const String countAgain = 'Кайра эсепте';
   static const String text1 = 'Жебейсинби тамактан  🤨';
   static const String text2 = ' Салмагыныз жакшы. молодец 👍';
-  static const String text3 = 'Арыкта!!!';
+  static const String text3 = 'Арыкта.Спорт менен алектен!!!';
   static const String text4 = 'Тиркемеде каталар бар';
 }
